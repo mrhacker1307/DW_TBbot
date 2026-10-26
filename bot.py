@@ -8,7 +8,7 @@ logging.basicConfig(
 )
 
 # Your Bot Token from BotFather
-TOKEN = "857922035:AAGiDwN3Ho5mjzzoEn2vQAf8tSdX9S1604Y"
+TOKEN = 8579220355:AAGiDwN3Ho5mjzzoEn2vQAf8tSdX9S1604Y
 
 
 async def shorten_link(update: Update, context: ContextTypes.DEFAULT_TYPE):
